@@ -1,9 +1,15 @@
 # data 
 data/mover_market_snapshot.csv
-Data/submission_set.csv
+data/submission_set.csv
 
 # Mac
 .DS_Store
 
 # notebook
 notebook/.ipynb_checkpoints/
+
+#IDE
+.idea/
+
+#python
+*/__pycache__/
