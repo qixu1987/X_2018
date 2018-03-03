@@ -3,7 +3,8 @@ data/mover_market_snapshot.csv
 data/submission_set.csv
 
 # Mac
-.DS_Store
+.DS_store
+notebook/.DS_Store
 
 # notebook
 notebook/.ipynb_checkpoints/
